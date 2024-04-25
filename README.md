@@ -7,18 +7,13 @@ This project utilizes a llama model for certain functionalities. Follow the step
 ## How to Download the Llama Model
 
 1. **Clone the Llama Model Repository**: Visit the respective GitHub repository for the llama model you need:
-   - [Meta Llama 2 Repository](link_to_repo)
-   - [Llama 3 Repository](link_to_repo)
-   - [Code Llama Repository](link_to_repo)
-   - [Llama Guard Repository](link_to_repo)
+   - [Meta Llama 2 Repository]((https://github.com/meta-llama/llama))
+   - [Readme]((https://github.com/meta-llama/llama/blob/main/README.md))
+   - [download.sh]((https://github.com/meta-llama/llama/blob/main/download.sh))
+   - Copy the URL you got after registering
 
 2. **Run the download.sh Script**: Inside the cloned repository, locate and run the `download.sh` script following the instructions in the repository's README file.
 
-3. **Provide Custom URL**: When prompted for a unique custom URL during the script execution, copy and paste one of the URLs below (clicking on the URL won't access the model directly):
-   - [Custom URL 1](custom_url_1)
-   - [Custom URL 2](custom_url_2)
-   - [Custom URL 3](custom_url_3)
-   - [Custom URL 4](custom_url_4)
 
 Follow the detailed instructions provided in the respective repository's README file for a successful setup of the llama model.
 
