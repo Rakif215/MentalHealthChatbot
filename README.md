@@ -7,7 +7,7 @@ This project utilizes a llama model for certain functionalities. Follow the step
 ## How to Download the Llama Model
 
 1. **Clone the Llama Model Repository**: Visit the respective GitHub repository for the llama model you need:
-   - [Meta Llama 2 Repository]((https://github.com/meta-llama/llama))
+   - [Meta Llama 2 Repository](https://github.com/meta-llama/llama))
    - [Readme]((https://github.com/meta-llama/llama/blob/main/README.md))
    - [download.sh]((https://github.com/meta-llama/llama/blob/main/download.sh))
    - Copy the URL you got after registering
